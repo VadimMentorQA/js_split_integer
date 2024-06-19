@@ -1,9 +1,10 @@
 'use strict';
-
+//reject me, please
 const splitInteger = require('./splitInteger');
 
 test(`should split a number into equal parts
   if a value is divisible by a numberOfParts`, () => {
+  const someBadVariable = undefined;
 
 });
 
